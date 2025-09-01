@@ -1,7 +1,7 @@
 # BFHL REST API
 
 This project implements a REST API with a POST /bfhl endpoint as per the requirements. It is built using Node.js and Express, ready for deployment to Vercel, Railway, or Render.
-https://bajaj-finserv-five-mu.vercel.app/bfhl
+live demo-https://bajaj-finserv-five-mu.vercel.app/bfhl
 ## Features
 - Accepts an array via POST request
 - Returns status, user_id, email, roll_number, even/odd numbers, alphabets (uppercase), special characters, sum of numbers (as string), and concatenated reversed alternating caps string
